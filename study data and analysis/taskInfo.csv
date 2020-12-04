@@ -1,0 +1,215 @@
+id,api,# complete (circled),# completed (subtask level),# completed (notes),Exclude (task problem),TorusGeometry given object,4th param correct given TorusGeometry,Misplaced_sphereMollweideProjection_in_layer,Notes,techDiff,#LearnedPLs,#LearnedAPIs,debugConf,numAnTypes,stageNum,AnyTechDiff,has-concept,has-fact,has-template,BadOLTemplate (mislabeled projection template as interaction template),Bad Natural fact (suggested trigrams function not ngrams function)
+2,D3,0,0,,,,,,,FALSE,"""5-9""","""5-9""",3,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+3,D3,0,0.1,,,,,,,FALSE,"""5-9""",1,4,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+4,D3,1,-1,Added title in HTML,TRUE,,,,(task 1 done w/ html change),FALSE,"""2-4""",1,1,1,3,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+5,D3,0,-1,"Missed 2 of first task, then continued",TRUE,,,,,FALSE,"""5-9""",10+,6,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+6,D3,0,0.3,one save back,,,,,,FALSE,"""5-9""","""5-9""",6,1,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+7,D3,1,1.2,Used D3 to append html title,,,,,,FALSE,"""5-9""","""2-4""",4,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+8,D3,1,1.1,Title positioned close enough,,,,,,FALSE,"""2-4""",1,5,1,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+9,D3,0,-1,No title,TRUE,,,,,FALSE,"""2-4""","""2-4""",3,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+10,D3,3,-1,"Added title in HTML, added planets at end, but hadn't removed space",TRUE,,,,,FALSE,"""5-9""","""2-4""",5,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+11,D3,0,-1,added tile with html,TRUE,,,,,FALSE,"""5-9""","""5-9""",3,1,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+12,D3,1,1.3,,,,,,,FALSE,"""5-9""","""5-9""",6,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+13,D3,1,1.3,Used D3 to append title to bottom of page,,,,,,FALSE,"""5-9""",10+,4,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+14,D3,0,0.2,,,,,,,FALSE,"""5-9""","""5-9""",3,2,3,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+16,D3,0,0.3,,,,,,,FALSE,"""2-4""","""2-4""",2,2,2,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+17,D3,1,-1,Use JS to append html title,TRUE,,,,,FALSE,"""5-9""","""5-9""",4,3,4,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+18,D3,2,1.3,,,,,,,FALSE,"""5-9""",10+,4,1,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+19,D3,0,0.5,,,,,,,FALSE,"""2-4""","""5-9""",3,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+20,D3,3,1.2,,,,,,,FALSE,"""5-9""","""5-9""",1,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+21,D3,0,-1,Uses JS to append title,TRUE,,,,,FALSE,"""5-9""",10+,6,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+22,D3,0,-1,didn't finish 2 of task 1 before continuing,TRUE,,,,,FALSE,"""5-9""",10+,6,2,4,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+23,D3,3,3.1,,,,,,,FALSE,10+,10+,4,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+24,D3,2,-1,Added Title in HTML,TRUE,,,,,FALSE,"""5-9""",10+,3,1,4,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+25,D3,0,0.3,,,,,,,FALSE,"""2-4""",1,4,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+26,D3,1,1.2,,,,,,,FALSE,"""5-9""",10+,4,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+27,D3,1,0.5,,,,,,,FALSE,10+,10+,6,2,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+28,D3,0,0.3,,,,,,,FALSE,"""2-4""","""5-9""",3,1,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+29,D3,0,0,,,,,,,FALSE,"""5-9""","""2-4""",6,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+30,D3,1,1.1,,,,,,,FALSE,"""2-4""","""5-9""",5,2,1,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+31,D3,1,-1,Use JS to append title,TRUE,,,,,FALSE,"""5-9""","""5-9""",5,1,2,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+32,D3,0,0.3,,,,,,,FALSE,"""5-9""","""5-9""",4,2,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+33,D3,1,1.3,One save back,,,,,,FALSE,"""5-9""","""2-4""",4,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+34,D3,0,0.1,,,,,,,FALSE,"""5-9""","""2-4""",5,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+35,D3,1,0.5,,,,,,,FALSE,"""5-9""",1,3,2,3,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+36,D3,0,0.1,One save back,,,,,,FALSE,"""5-9""","""5-9""",6,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+37,D3,0,-1,js dom,TRUE,,,,,FALSE,"""2-4""","""2-4""",4,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+38,D3,0,0.2,Use D3 to add html title,,,,,,FALSE,"""5-9""","""2-4""",5,1,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+39,D3,0,0.2,,,,,,,FALSE,"""5-9""","""5-9""",6,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+40,D3,1,-1,two saves back (also had js to add html and started working on radius),TRUE,,,,,FALSE,"""2-4""","""5-9""",3,2,3,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+41,D3,0,0.4,,,,,,,FALSE,"""2-4""","""5-9""",4,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+42,D3,1,1.1,,,,,,,FALSE,"""2-4""","""2-4""",2,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+43,D3,1,1.2,,,,,,,FALSE,"""5-9""","""5-9""",4,1,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+44,D3,0,-1,"one save back, didn't do title",TRUE,,,,,FALSE,"""5-9""","""2-4""",4,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+45,D3,0,-1,Used d3 to append html title,TRUE,,,,,FALSE,"""2-4""",1,3,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+46,D3,1,1.3,,,,,,,FALSE,"""5-9""","""2-4""",4,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+47,D3,1,0.4,,,,,,,FALSE,"""2-4""","""5-9""",3,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+48,D3,0,0.3,,,,,,,FALSE,"""2-4""","""2-4""",4,1,3,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+51,D3,1,1.3,,,,,,,FALSE,"""2-4""","""2-4""",6,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+54,D3,2,1.3,Used d3 to append html title,,,,,,FALSE,"""5-9""",10+,5,1,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+57,D3,0,0.5,,,,,,,FALSE,10+,10+,2,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+60,D3,0,-1,Use JS to add html,TRUE,,,,,FALSE,"""2-4""","""2-4""",3,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+61,D3,0,0.2,,,,,,,FALSE,"""5-9""","""5-9""",1,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+67,D3,2,-1,Add title in html,TRUE,,,,,FALSE,"""5-9""",10+,4,1,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+69,D3,2,1.4,,,,,,,FALSE,"""2-4""","""2-4""",4,2,2,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+1,Natural,1,1.3,,,,,,"Participant said they discovered the ability to scroll annotations when nothing was selected later, which answers in part their additional info response",FALSE,"""5-9""","""2-4""",4,3,1,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+2,Natural,0,0,,,,,,,FALSE,"""5-9""","""5-9""",3,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE
+3,Natural,1,0,,,,,,,FALSE,"""5-9""",1,4,1,3,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+4,Natural,0,0,,,,,,,FALSE,"""2-4""",1,1,0,2,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+5,Natural,0,0,,,,,,,FALSE,"""5-9""",10+,6,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE
+6,Natural,0,0,,,,,,,FALSE,"""5-9""","""5-9""",6,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+7,Natural,1,1,,,,,,,FALSE,"""5-9""","""2-4""",4,2,2,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+8,Natural,1,0.2,Used 6 instead of 7. Looks like they tried starting on the next one.,,,,,,FALSE,"""2-4""",1,5,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+9,Natural,0,0,"I don't see any code modifications, perhaps they did that through the dev tools?",,,,,,FALSE,"""2-4""","""2-4""",3,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE
+10,Natural,2,1.4,,,,,,,FALSE,"""5-9""","""2-4""",5,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE
+11,Natural,1,1,,,,,,,FALSE,"""5-9""","""5-9""",3,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+12,Natural,0,0,,,,,,,FALSE,"""5-9""","""5-9""",6,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+13,Natural,0,0.1,,,,,,,FALSE,"""5-9""",10+,4,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+14,Natural,1,1.3,,,,,,,FALSE,"""5-9""","""5-9""",3,1,4,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+16,Natural,0,0,,,,,,They said: *I didn't look at the example code because I couldn't find the relationship between Task1 and this code? Maybe it was useful for the rest part of task?,FALSE,"""2-4""","""2-4""",2,1,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+17,Natural,1,1,They seem to have modified the copied verion of files,,,,,,FALSE,"""5-9""","""5-9""",4,2,2,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+18,Natural,1,1,,,,,,,FALSE,"""5-9""",10+,4,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+19,Natural,0,0,,,,,,,FALSE,"""2-4""","""5-9""",3,2,4,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+20,Natural,1,1,,,,,,,FALSE,"""5-9""","""5-9""",1,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+21,Natural,0,1.1,,,,,,,FALSE,"""5-9""",10+,6,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE
+22,Natural,1,1,,,,,,,FALSE,"""5-9""",10+,6,1,2,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+23,Natural,1,1.6,,,,,,,FALSE,10+,10+,4,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+24,Natural,1,1,,,,,,,FALSE,"""5-9""",10+,3,0,3,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+25,Natural,0,0.2,,,,,,,FALSE,"""2-4""",1,4,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+26,Natural,1,1,,,,,,,FALSE,"""5-9""",10+,4,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+27,Natural,0,0,,,,,,,FALSE,10+,10+,6,1,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+28,Natural,0,0,,,,,,,FALSE,"""2-4""","""5-9""",3,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+29,Natural,0,0,,,,,,,FALSE,"""5-9""","""2-4""",6,2,2,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+30,Natural,0,0,,,,,,,FALSE,"""2-4""","""5-9""",5,1,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+31,Natural,1,1,,,,,,,FALSE,"""5-9""","""5-9""",5,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+32,Natural,0,0,,,,,,,FALSE,"""5-9""","""5-9""",4,1,2,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+33,Natural,1,1,,,,,,,FALSE,"""5-9""","""2-4""",4,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+34,Natural,0,0,,,,,,,FALSE,"""5-9""","""2-4""",5,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+35,Natural,1,1,,,,,,,FALSE,"""5-9""",1,3,1,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+36,Natural,1,1,One save back,,,,,,FALSE,"""5-9""","""5-9""",6,2,3,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+37,Natural,1,1,,,,,,,FALSE,"""2-4""","""2-4""",4,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+38,Natural,0,1,,,,,,,FALSE,"""5-9""","""2-4""",5,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+39,Natural,1,1,,,,,,,FALSE,"""5-9""","""5-9""",6,1,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+40,Natural,1,1,,,,,,,FALSE,"""2-4""","""5-9""",3,1,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+41,Natural,0,0,,,,,,,FALSE,"""2-4""","""5-9""",4,2,4,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+42,Natural,0,0.2,,,,,,,FALSE,"""2-4""","""2-4""",2,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+43,Natural,1,1,,,,,,,FALSE,"""5-9""","""5-9""",4,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+44,Natural,0,0,,,,,,,FALSE,"""5-9""","""2-4""",4,2,3,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+45,Natural,0,0.2,,,,,,,FALSE,"""2-4""",1,3,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+46,Natural,1,1,,,,,,,FALSE,"""5-9""","""2-4""",4,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+47,Natural,1,0,,,,,,,FALSE,"""2-4""","""5-9""",3,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+48,Natural,1,1,,,,,,,FALSE,"""2-4""","""2-4""",4,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+51,Natural,1,1,,,,,,,FALSE,"""2-4""","""2-4""",6,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+54,Natural,1,1,,,,,,,FALSE,"""5-9""",10+,5,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+57,Natural,0,0,,,,,,,FALSE,10+,10+,2,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+60,Natural,1,1,,,,,,,FALSE,"""2-4""","""2-4""",3,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+61,Natural,1,1.1,,,,,,,FALSE,"""5-9""","""5-9""",1,2,4,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+67,Natural,1,1,,,,,,,FALSE,"""5-9""",10+,4,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+69,Natural,1,1,,,,,,,FALSE,"""2-4""","""2-4""",4,1,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,OpenLayers,0,2.4,,,,,temporarily,,FALSE,"""5-9""","""5-9""",3,2,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+3,OpenLayers,0,0,,,,,No,,FALSE,"""5-9""",1,4,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+4,OpenLayers,0,0.1,,,,,yes,,FALSE,"""2-4""",1,1,3,4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+5,OpenLayers,0,2.6,,,,,temporarily,,FALSE,"""5-9""",10+,6,2,2,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+6,OpenLayers,3,3,,,,,temporarily,,FALSE,"""5-9""","""5-9""",6,3,3,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
+7,OpenLayers,1,1,,,,,temporarily,,FALSE,"""5-9""","""2-4""",4,1,4,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+8,OpenLayers,1,2,,,,,No (they replaced the whole layer with the var),,FALSE,"""2-4""",1,5,3,1,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
+9,OpenLayers,0,0,,,,,No,,FALSE,"""2-4""","""2-4""",3,2,3,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+10,OpenLayers,3,2.7,needed quotes around hex color,,,,No,,FALSE,"""5-9""","""2-4""",5,2,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+11,OpenLayers,1,1.1,,,,,No (put graticule in wrong place at first though),,FALSE,"""5-9""","""5-9""",3,3,1,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
+12,OpenLayers,2,2.4,,,,,No,,FALSE,"""5-9""","""5-9""",6,1,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+13,OpenLayers,1,1.1,,,,,No,,FALSE,"""5-9""",10+,4,1,3,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+14,OpenLayers,3,3,,,,,No,,FALSE,"""5-9""","""5-9""",3,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+16,OpenLayers,1,1,looks like they tried to do part 3 without doing part 2,,,,No,,FALSE,"""2-4""","""2-4""",2,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+17,OpenLayers,0,1,,,,,No,,FALSE,"""5-9""","""5-9""",4,1,1,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+18,OpenLayers,3,3,,,,,No,,FALSE,"""5-9""",10+,4,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+19,OpenLayers,0,2,,,,,No,,FALSE,"""2-4""","""5-9""",3,1,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+20,OpenLayers,3,3,,,,,No,,FALSE,"""5-9""","""5-9""",1,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+21,OpenLayers,0,2.6,,,,,No,,FALSE,"""5-9""",10+,6,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+22,OpenLayers,0,3.7,,,,,temporarily,,FALSE,"""5-9""",10+,6,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+23,OpenLayers,3,3,,,,,temporarily,,FALSE,10+,10+,4,1,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+24,OpenLayers,3,3,,,,,temporarily,at 7:30 / 15 min I noticed the console wasn't open and therefore refreshing the page wasn't working,TRUE,"""5-9""",10+,3,3,2,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+25,OpenLayers,1,1,,,,,No (but several other misplacements of sphereMoll...),,FALSE,"""2-4""",1,4,2,1,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+26,OpenLayers,3,3.7,,,,,No,,FALSE,"""5-9""",10+,4,2,1,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+27,OpenLayers,1,1,two saves back,,,,temporarily,,FALSE,10+,10+,6,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+28,OpenLayers,0,0,,,,,No,,FALSE,"""2-4""","""5-9""",3,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+29,OpenLayers,0,2.4,,,,,temporarily,,FALSE,"""5-9""","""2-4""",6,1,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+30,OpenLayers,3,3.7,,,,,No,,FALSE,"""2-4""","""5-9""",5,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+31,OpenLayers,2,2.6,,,,,temporarily,,FALSE,"""5-9""","""5-9""",5,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+32,OpenLayers,2,2.5,,,,,No,,FALSE,"""5-9""","""5-9""",4,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+33,OpenLayers,1,0,,,,,No,,FALSE,"""5-9""","""2-4""",4,2,1,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+34,OpenLayers,0,0,,,,,No,,FALSE,"""5-9""","""2-4""",5,1,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+35,OpenLayers,3,3,,,,,No,,FALSE,"""5-9""",1,3,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+36,OpenLayers,1,2.3,one save back (they copied the polygon code in),,,,No,,FALSE,"""5-9""","""5-9""",6,1,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+37,OpenLayers,0,0,,,,,No,,FALSE,"""2-4""","""2-4""",4,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+38,OpenLayers,0,1,,,,,temporarily,,FALSE,"""5-9""","""2-4""",5,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+39,OpenLayers,3,3,,,,,temporarily,,FALSE,"""5-9""","""5-9""",6,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+40,OpenLayers,3,3,,,,,No,,FALSE,"""2-4""","""5-9""",3,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+41,OpenLayers,1,1,,,,,temporarily,,FALSE,"""2-4""","""5-9""",4,1,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+42,OpenLayers,3,3,,,,,temporarily,,FALSE,"""2-4""","""2-4""",2,2,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+43,OpenLayers,3,3,,,,,No,,FALSE,"""5-9""","""5-9""",4,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+44,OpenLayers,2,2.6,,,,,temporarily,,FALSE,"""5-9""","""2-4""",4,1,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+45,OpenLayers,1,1.1,,,,,No,,FALSE,"""2-4""",1,3,2,3,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+46,OpenLayers,3,2.7,,,,,temporarily,,FALSE,"""5-9""","""2-4""",4,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+47,OpenLayers,0,1,,,,,temporarily,,FALSE,"""2-4""","""5-9""",3,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+48,OpenLayers,2,2.7,,,,,No,,FALSE,"""2-4""","""2-4""",4,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+51,OpenLayers,3,3,,,,,No,,FALSE,"""2-4""","""2-4""",6,2,1,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+54,OpenLayers,3,3.3,,,,,No,,FALSE,"""5-9""",10+,5,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+57,OpenLayers,0,2.6,,,,,temporarily,,FALSE,10+,10+,2,2,4,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+60,OpenLayers,3,3,,,,,No,,FALSE,"""2-4""","""2-4""",3,2,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+61,OpenLayers,3,3,,,,,temporarily,,FALSE,"""5-9""","""5-9""",1,1,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+67,OpenLayers,2,2,,,,,temporarily,,FALSE,"""5-9""",10+,4,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+69,OpenLayers,2,2.5,,,,,No,,FALSE,"""2-4""","""2-4""",4,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+1,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""","""2-4""",4,1,2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+2,Threejs,0,0.2,,,N/A,N/A,,,FALSE,"""5-9""","""5-9""",3,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+3,Threejs,0,0.5,"last one is a little closer, two back works",,FALSE,N/A,,,FALSE,"""5-9""",1,4,3,4,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+4,Threejs,0,0.4,,,FALSE,N/A,,Did not understand run vs. refresh on this task,TRUE,"""2-4""",1,1,2,1,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+5,Threejs,0,0.5,,,FALSE,N/A,,,FALSE,"""5-9""",10+,6,1,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+6,Threejs,1,0.7,,,TRUE,TRUE,,,FALSE,"""5-9""","""5-9""",6,2,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+7,Threejs,0,0.5,,,FALSE,N/A,,,FALSE,"""5-9""","""2-4""",4,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+8,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""2-4""",1,5,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+9,Threejs,0,0,,,N/A,N/A,,,FALSE,"""2-4""","""2-4""",3,1,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+10,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""","""2-4""",5,1,3,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+11,Threejs,1,1,extra x position change,,TRUE,TRUE,,,FALSE,"""5-9""","""5-9""",3,2,4,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+12,Threejs,1,0.5,"They started workin on shine, but were still switching geometry type",,FALSE,N/A,,,FALSE,"""5-9""","""5-9""",6,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+13,Threejs,0,0.5,,,FALSE,N/A,,,FALSE,"""5-9""",10+,4,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+14,Threejs,2,1.3,they did Phong with color instead of emmisive,,TRUE,TRUE,,,FALSE,"""5-9""","""5-9""",3,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+16,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""2-4""","""2-4""",2,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+17,Threejs,1,1.3,"Phong wrong (also from task 1 torus size not correct, extra x and z positions)",,TRUE,TRUE,,"Worked on the duped file instead of original one. Said this task seemed easier because it was just adding things. Noticed that the sphere was smoother and less ""polygonal"" than the other shapes, and deduced that torus took other parameters.",TRUE,"""5-9""","""5-9""",4,0,3,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+18,Threejs,1,1.3,One save back (runtime error and phong emissive color not set),,TRUE,TRUE,,,FALSE,"""5-9""",10+,4,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+19,Threejs,0,0.6,All objects are added (one save back since the last has half a new line written),,TRUE,FALSE,,,FALSE,"""2-4""","""5-9""",3,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+20,Threejs,1,1.4,They look like they just discovered emissive,,TRUE,TRUE,,,FALSE,"""5-9""","""5-9""",1,3,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+21,Threejs,0,1.3,,,TRUE,TRUE,,,FALSE,"""5-9""",10+,6,1,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+22,Threejs,0,0.6,They started working on shine,,TRUE,FALSE,,,FALSE,"""5-9""",10+,6,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+23,Threejs,2,2.4,They missed the emmisive on phong for task 2,,TRUE,TRUE,,,FALSE,10+,10+,4,0,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+24,Threejs,0,0.6,They started working on shine,,TRUE,FALSE,,,FALSE,"""5-9""",10+,3,2,1,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+25,Threejs,0,0.3,One save back,,N/A,N/A,,,FALSE,"""2-4""",1,4,1,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+26,Threejs,0,0.6,Two saves back,,TRUE,FALSE,,,FALSE,"""5-9""",10+,4,1,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+27,Threejs,2,2.3,"Missed emmisive on Phong from task 2, they had just pasted in the reflecton template.",,TRUE,TRUE,,,FALSE,10+,10+,6,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+28,Threejs,0,0.2,,,N/A,N/A,,,FALSE,"""2-4""","""5-9""",3,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+29,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""","""2-4""",6,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+30,Threejs,2,2.2,Missed emmisive on Phong from task 2,,TRUE,TRUE,,,FALSE,"""2-4""","""5-9""",5,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+31,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""","""5-9""",5,2,1,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+32,Threejs,2,1.2,Tried to continue with reflection though they had left disk bright purple,,TRUE,TRUE,,,FALSE,"""5-9""","""5-9""",4,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+33,Threejs,0,0.6,two saves back,,TRUE,FALSE,,"- Some additional information that I thought would've been helpful were information about some of the fields for the THREE.Mesh - Also some information about the camera object - Maybe a template would've been good about creating the shape, then, material,",FALSE,"""5-9""","""2-4""",4,1,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+34,Threejs,0,0.5,,,FALSE,N/A,,,FALSE,"""5-9""","""2-4""",5,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+35,Threejs,0,0.8,,,TRUE,TRUE,,,FALSE,"""5-9""",1,3,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+36,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""","""5-9""",6,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+37,Threejs,0,0.3,,,N/A,N/A,,,FALSE,"""2-4""","""2-4""",4,2,3,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+38,Threejs,0,0.7,,,TRUE,TRUE,,,FALSE,"""5-9""","""2-4""",5,2,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+39,Threejs,0,0.7,,,TRUE,FALSE,,,FALSE,"""5-9""","""5-9""",6,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+40,Threejs,0,0.4,,,FALSE,N/A,,,FALSE,"""2-4""","""5-9""",3,3,1,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+41,Threejs,0,0.5,,,FALSE,N/A,,,FALSE,"""2-4""","""5-9""",4,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+42,Threejs,0,0.5,,,FALSE,N/A,,,FALSE,"""2-4""","""2-4""",2,1,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+43,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""","""5-9""",4,2,1,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+44,Threejs,1,0.7,,,TRUE,TRUE,,,FALSE,"""5-9""","""2-4""",4,0,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+45,Threejs,0,0.5,,,FALSE,N/A,,"The threejs code was on screen during the practice task, but they informed me and said that they hadn't read the code.",FALSE,"""2-4""",1,3,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+46,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""","""2-4""",4,1,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+47,Threejs,1,0.6,two saves back,,TRUE,FALSE,,,FALSE,"""2-4""","""5-9""",3,0,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+48,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""2-4""","""2-4""",4,2,1,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+51,Threejs,2,1.3,two saves back,,TRUE,TRUE,,,FALSE,"""2-4""","""2-4""",6,1,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+54,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""",10+,5,2,3,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+57,Threejs,0,2.4,"missed final smoothing on task 1, missed emmisive on task 2",,TRUE,FALSE,,,FALSE,10+,10+,2,1,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+60,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""2-4""","""2-4""",3,1,3,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+61,Threejs,0,0.5,,,FALSE,N/A,,,FALSE,"""5-9""","""5-9""",1,0,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+67,Threejs,0,0.6,,,TRUE,FALSE,,,FALSE,"""5-9""",10+,4,2,4,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+69,Threejs,1,1,,,TRUE,TRUE,,,FALSE,"""2-4""","""2-4""",4,3,3,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE

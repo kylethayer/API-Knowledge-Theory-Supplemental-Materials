@@ -1,0 +1,8 @@
+#output_box {
+    display:flex;
+}
+
+.output_div {
+    padding:5px;
+    width:50%;
+}
