@@ -106,7 +106,7 @@ function setWater() {
 		{
 			textureWidth: 512,
 			textureHeight: 512,
-			waterNormals: new THREE.TextureLoader().load( 'textures/waternormals.jpg', function ( texture ) {
+			waterNormals: new THREE.TextureLoader().load( 'https://threejs.org/examples/textures/waternormals.jpg', function ( texture ) {
 				texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
 			}),
 			alpha: parameters.alpha,
@@ -131,7 +131,7 @@ function animateWater(){
 
 function setSkybox() {
 	var cubeTextureLoader = new THREE.CubeTextureLoader();
-	cubeTextureLoader.setPath( 'textures/cube/skyboxsun25deg/' );
+	cubeTextureLoader.setPath( 'https://threejs.org/examples/textures/cube/skyboxsun25deg/' );
 	cubeMap = cubeTextureLoader.load( [
 		'px.jpg', 'nx.jpg',
 		'py.jpg', 'ny.jpg',
