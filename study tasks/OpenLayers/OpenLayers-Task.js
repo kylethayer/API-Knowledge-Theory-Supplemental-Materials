@@ -17,7 +17,7 @@ new ol.Map({
     new ol.layer.Tile({
       source: new ol.source.TileWMS({
         projection: 'EPSG:4326',
-        url: 'http://demo.boundlessgeo.com/geoserver/wms',
+        url: 'https://ahocevar.com/geoserver/wms',
         params: {
           'LAYERS': 'ne:NE1_HR_LC_SR_W_DR'
         }

@@ -16,7 +16,7 @@ var map = new ol.Map({
     new ol.layer.Tile({
       source: new ol.source.TileWMS({
         projection: 'EPSG:4326',
-        url: 'http://demo.boundlessgeo.com/geoserver/wms',
+        url: 'https://ahocevar.com/geoserver/wms',
         params: {
           'LAYERS': 'ne:NE1_HR_LC_SR_W_DR'
         }
@@ -34,7 +34,7 @@ var map = new ol.Map({
 
 //add country outlines
 var countryOutlineSource = new ol.source.Vector({
-  url: 'https://openlayers.org/en/v4.6.4/examples/data/geojson/countries-110m.geojson',
+  url: 'https://openlayers.org/en/v4.6.5/examples/data/geojson/countries-110m.geojson',
   format: new ol.format.GeoJSON()
 });
 var countryOutlineVector =  new ol.layer.Vector({
