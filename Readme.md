@@ -1,5 +1,5 @@
 These are the supplemental materials for the paper: 
-Kyle Thayer, Sarah E. Chasins, and Amy J. Ko. 2020. A Theory of Robust API Knowledge. ACM Trans. Comput.Educ.1, 1 (2021).
+Kyle Thayer, Sarah E. Chasins, and Amy J. Ko. A Theory of Robust API Knowledge. ACM Trans. Comput.Educ.1, 1 (2021).
 http://www.kylethayer.com/#/publications/api_theory
 
 Included are two sets of files:
